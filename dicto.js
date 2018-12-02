@@ -1,2 +1,4 @@
 //  OpenFusky Dictionary. Thanks to Posixdeon for help!
-var dict = {}
+var dict = {
+  ["HELLO", "HI", "HOWDY!"]: "greeting"
+}
